@@ -1,0 +1,26 @@
+body{
+  font-family: Arial;
+  color:green;
+}
+
+p{
+  background-color: pink;
+}
+
+.newstyle{
+  background-color:coral;
+}
+
+.oldstyle{
+  background-color:green;
+}
+
+.photo{
+  border-radius: 100%;
+  max-width: 15%;
+  margin: 10px auto 20px auto;
+  display: block;
+  filter: grayscale(100%);
+  border: 0.1em solid #FC9CFF;
+  border: #000000 10px solid;
+}
